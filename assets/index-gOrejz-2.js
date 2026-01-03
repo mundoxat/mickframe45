@@ -9659,7 +9659,7 @@ function Xf({onLogin: e}) {
                     }), p.jsx("div", {
                         className: "relative w-24 h-24 rounded-full bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 p-1",
                         children: p.jsx("img", {
-                            src: "https://xvto.com.br/ft/vto/6900fda039f4a.jpeg",
+                            src: "https://i.pravatar.cc/300?img=12",
                             alt: "Profile",
                             className: "w-full h-full rounded-full object-cover"
                         })
@@ -9669,7 +9669,7 @@ function Xf({onLogin: e}) {
                     children: "Mick"
                 }), p.jsx("p", {
                     className: "text-slate-300",
-                    children: "Digite a senha para acessar"
+                    children: "Enter the password(1234)"
                 })]
             }), p.jsxs("div", {
                 className: `bg-white/10 backdrop-blur-xl rounded-2xl sm:rounded-3xl p-4 sm:p-8 shadow-2xl border border-white/20 ${i ? "animate-shake" : ""}`,
