@@ -9817,7 +9817,7 @@ function Yf() {
     }, {
         id: 4,
         url: "https://i.pinimg.com/originals/83/92/ef/8392ef9be01706d092dd65efe3f7affe.gif?auto=compress&cs=tinysrgb&w=800",
-        title: "Moment 3",
+        title: "Moment 4",
         description: "A special memory cherished with care",
         isGif: !1
     }]
@@ -10099,7 +10099,7 @@ function qf() {
                     className: "flex-1 min-w-0",
                     children: p.jsx("div", {
                         className: "text-white font-semibold text-xs truncate",
-                        children: "Our Music"
+                        children: "Rihanna - Diamonds"
                     })
                 })]
             }), p.jsxs("div", {
