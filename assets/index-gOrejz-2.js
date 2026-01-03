@@ -9736,7 +9736,7 @@ function Kf() {
                     })]
                 }), p.jsx("h2", {
                     className: "text-3xl sm:text-4xl font-bold mb-2 bg-gradient-to-r from-white via-purple-700 to-pink-500 bg-clip-text text-transparent",
-                    children: "BrunoT"
+                    children: "Mick"
                 }), p.jsx("p", {
                     className: "text-slate-300 text-base sm:text-lg mb-6",
                     children: "✨“CONFIDENCE IS THE BEST OUTFIT”"
@@ -9975,7 +9975,7 @@ function Jf() {
                     })]
                 }), p.jsx("h2", {
                     className: "text-3xl sm:text-4xl font-bold mb-2 bg-gradient-to-r from-white via-purple-700 to-pink-500 bg-clip-text text-transparent",
-                    children: "BrunoT"
+                    children: "Mick"
                 }), p.jsx("p", {
                     className: "text-slate-300",
                     children: "(32032)"
