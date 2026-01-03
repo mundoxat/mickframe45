@@ -9851,7 +9851,7 @@ function Yf() {
                     }), p.jsx("div", {
                         className: "relative w-20 h-20 rounded-full bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 p-1",
                         children: p.jsx("img", {
-                            src: "https://xvto.com.br/ft/vto/6900fda039f4a.jpeg",
+                            src: "https://i.pravatar.cc/300?img=12",
                             alt: "Profile",
                             className: "w-full h-full rounded-full object-cover"
                         })
@@ -9968,7 +9968,7 @@ function Jf() {
                     }), p.jsx("div", {
                         className: "relative w-24 h-24 rounded-full bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 p-1",
                         children: p.jsx("img", {
-                            src: "https://xvto.com.br/ft/vto/6900fda039f4a.jpeg",
+                            src: "https://i.pravatar.cc/300?img=12",
                             alt: "Profile",
                             className: "w-full h-full rounded-full object-cover"
                         })
